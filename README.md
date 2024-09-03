@@ -7,7 +7,7 @@ This project focuses on finding the optimal location for a stakeholder intereste
 - **Socio-Economic Considerations**: Focus on areas where the unemployment rate is acceptable, the average income is medium to high, and the average rent is reasonable.
 
 ## Methodology 
-Data science techniques such as *Clustering** will be applied to analyze and generate a list of the most promising neighborhoods based on the above criteria. Each area's advantages will be clearly outlined to assist in selecting the best possible location for the Zumba Fitness Club.
+Data science techniques such as **Clustering** will be applied to analyze and generate a list of the most promising neighborhoods based on the above criteria. Each area's advantages will be clearly outlined to assist in selecting the best possible location for the Zumba Fitness Club.
 
 ## Outcome
 The analysis will yield a set of potential neighborhoods, each meeting the specified criteria, enabling an informed decision on the final location.
